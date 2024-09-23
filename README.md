@@ -2,7 +2,7 @@
 ---
 # Overview
 
-A hypothetical, nonprofit foundation (Alphabet Soup) has commissioned a tool that can help it select the applicants for funding with the best chance of success in their ventures. Using machine learning and neural networks, the use of the features in the provided dataset will be pertinent to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
+#### A hypothetical, nonprofit foundation (Alphabet Soup) has commissioned a tool that can help it select the applicants for funding with the best chance of success in their ventures. Using machine learning and neural networks, the use of the features in the provided dataset will be pertinent to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
 ---
 # Results
 
