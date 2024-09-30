@@ -27,7 +27,8 @@ What variable was removed from the input data because it is neither a target nor
 - The variable removed was EIN (Employer Identification Number) due to the fact that the system could misconstrue this data as a measure of value as opposed to a unique identifier of an organization.
 
 
-###Compiling, Training, and Evaluating the Model
+### Compiling, Training, and Evaluating the Model
+
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 - This model was created with 1) an additional hidden layer (to a total of three), each with 2) modifications to the levels of neurons as this helped to increase the model's accuracy above the needed efficacy level of 75%.  Third modification involved 3) changing the second and third output functions to 'sigmoid' from 'relu', which also helped to increase accuracy results. Epoch numbers were held constant as compared to the original model at 100.
 
